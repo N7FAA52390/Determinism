@@ -25,3 +25,11 @@
 
 - Draw an additional card: `*` - The Wildcard  
   - The Wildcard is full of possibilities, just like life.
+
+
+## [1.2.0] - 2026-05-11
+
+### Added
+
+- Draw an additional card: The Fool of the Arcana
+  - Embracing the possibilities that lie in new beginnings, ongoing adventures and the journeys ahead.

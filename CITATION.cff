@@ -5,7 +5,7 @@ authors:
 - family-names: Guðmunds Fanneyjar
   given-names: Axel Gauti
   orcid: https://orcid.org/0009-0001-5927-9136
-version: 1.1.0
+version: 1.2.0
 title: "Nexus 01 - Determinism"
 date-released: 2026-05-11
 repository-code: "https://github.com/N7FAA52390/Determinism/"
@@ -19,7 +19,7 @@ preferred-citation:
     orcid: https://orcid.org/0009-0001-5927-9136
   title: "Nexus 01 - Determinism"
   date-released: 2026-05-11
-  url: "https://github.com/N7FAA52390/Determinism/tree/v1.1.0"
+  url: "https://github.com/N7FAA52390/Determinism/tree/v1.2.0"
 
 references:
   - type: generic
