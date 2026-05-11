@@ -1,0 +1,99 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it."
+type: dataset
+authors:
+- family-names: Guðmunds Fanneyjar
+  given-names: Axel Gauti
+  orcid: https://orcid.org/0009-0001-5927-9136
+version: 1.0.0
+title: "Nexus 01 - Determinism"
+date-released: 2026-05-11
+repository-code: "https://github.com/N7FAA52390/Determinism/"
+license: "CC-BY-SA-4.0"
+
+preferred-citation:
+  type: article
+  authors:
+  - family-names: Guðmunds Fanneyjar
+    given-names: Axel Gauti
+    orcid: https://orcid.org/0009-0001-5927-9136
+  title: "Nexus 01 - Determinism"
+  date-released: 2026-05-11
+  url: "https://github.com/N7FAA52390/Determinism/tree/v1.0.0"
+
+references:
+  - type: generic
+    title: "System 1 and System 2 Thinking"
+    url: "https://thedecisionlab.com/reference-guide/philosophy/system-1-and-system-2-thinking"
+
+  - type: article
+    title: "Brain Mechanisms of Serial and Parallel Processing during Dual-Task Performance"
+    authors:
+      - family-names: "Sigman"
+        given-names: "M."
+      - family-names: "Dehaene"
+        given-names: "S."
+    year: 2008
+    journal: "Journal of Neuroscience"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6670853/"
+
+  - type: article
+    title: "Multicosts of Multitasking"
+    authors:
+      - family-names: "Madore"
+        given-names: "K. P."
+      - family-names: "Wagner"
+        given-names: "A. D."
+    year: 2019
+    journal: "Neuron"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7075496/"
+
+  - type: blog
+    title: "The Global Workspace – Consciousness Explained?"
+    url: "https://theness.com/neurologicablog/the-global-workspace-consciousness-explained/"
+
+  - type: article
+    title: "Toward a computational theory of conscious processing"
+    year: 2017
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC5635963/"
+
+  - type: article
+    title: "Dual-process theories and consciousness: the case for 'Type Zero' cognition"
+    authors:
+      - family-names: "Shea"
+        given-names: "N."
+      - family-names: "Frith"
+        given-names: "C."
+    year: 2016
+    journal: "Neuroscience of Consciousness"
+    url: "https://academic.oup.com/nc/article/2016/1/niw005/2757125"
+
+  - type: article
+    title: "Dual-Process Theories of Higher Cognition: Advancing the Debate"
+    authors:
+      - family-names: "Evans"
+        given-names: "J. St. B. T."
+      - family-names: "Stanovich"
+        given-names: "K. E."
+    year: 2013
+    journal: "Perspectives on Psychological Science"
+    volume: "8"
+    issue: "3"
+    start: "223"
+    end: "241"
+    doi: "10.1177/1745691612460685"
+    url: "https://pubmed.ncbi.nlm.nih.gov/26172965/"
+    notes: "For 'Criticism 3' cite pp. 229–231."
+
+  - type: report
+    title: "Parallel Processing of Words? (preprint)"
+    url: "https://visionlab.neuroscience.barnard.edu/sites/default/files/content/AEW_Preprint_WithSupplement.pdf"
+
+  - type: generic
+    title: "AntecedentNexus0fDeterminism"
+    authors:
+      - family-names: Guðmunds Fanneyjar
+        given-names: Axel Gauti
+    repository-code: "https://www.github.com/mittons/AntecedentNexus0fDeterminism/"
+    url: "https://www.github.com/mittons/AntecedentNexus0fDeterminism/"
+    notes: "Auxiliary/companion repository referenced by this project."
