@@ -17,3 +17,11 @@
 - Attribution/citation language tightened for accuracy and reuse clarity.
 - README structure reorganized (licensing + referencing guidance + repo framing).
 - Repository documentation polished to emphasize stable references (tags/commit permalinks) and provenance trail.
+
+
+## [1.1.0] - 2026-05-11
+
+### Added
+
+- Draw an additional card: `*` - The Wildcard  
+  - The Wildcard is full of possibilities, just like life.

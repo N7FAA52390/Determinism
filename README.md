@@ -20,7 +20,7 @@ Full terms: https://creativecommons.org/licenses/by-sa/4.0/ • see [LICENSE](LI
 
 ### Notices on Referencing
 - Cite this repository via [CITATION.cff](CITATION.cff)
-- Link to this exact version: https://github.com/N7FAA52390/Determinism/tree/v1.0.0
+- Link to this exact version: https://github.com/N7FAA52390/Determinism/tree/v1.1.0
 - Version DOI: *pending for future release*
 
 ### Third-Party References & Notices
